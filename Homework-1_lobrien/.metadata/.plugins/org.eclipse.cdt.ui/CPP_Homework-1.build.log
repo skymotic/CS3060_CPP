@@ -1,0 +1,6 @@
+10:47:31 **** Incremental Build of configuration Default for project CPP_Homework-1 ****
+make all 
+make: Nothing to be done for 'all'.
+
+10:47:31 Build Finished. 0 errors, 0 warnings. (took 218ms)
+

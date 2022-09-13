@@ -1,0 +1,9 @@
+LaunchTargetManager/configs/CPP_Homework-1.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/CPP_Test.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:CPP_Test.exe,org.eclipse.launchbar.core.descriptorType.default\:CPP_Homework-1.exe
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:CPP_Test.exe/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:CPP_Test.exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
