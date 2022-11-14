@@ -1,0 +1,2 @@
+write a program that reads the contents of a text file the program should create a map in which the keys are the individual words found in the file and the values are the number of times each word appears for example if the word the appears 128 times the map would contain an element with the as the key and 128 as the value the program should either display the frequency of each word or create a second file containing a list of each word and its frequency
+hint see chapter 10 for a discussion of string tokenizing
